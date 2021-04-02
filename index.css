@@ -1,0 +1,45 @@
+#listOfNames {
+	margin: 90px auto;
+	border: 1px solid black;
+	width: 300px;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 3px 3px 5px black;
+}
+
+.mainConteiner {
+	width: 800px;
+	margin: 40px auto;
+	border: 1px solid black;
+	border-radius: 15px;
+	box-shadow: 3px 3px 5px black;
+	font-size: 18px;
+	font-variant: Times;
+	background-color: #fcfff3;
+}
+
+#listOfLetters{
+	width: 342px;
+	height: 25px;
+	border-radius: 5px;
+	margin: 25px 229px;
+	box-shadow: 3px 3px 5px black;
+
+
+}
+
+select:hover{
+	background-color: #ebece9;
+	cursor: pointer;
+}
+
+select:active{
+
+}
+
+
+li:hover{
+	background-color: #ebece9;
+	cursor: pointer;
+	border-radius: 3px;
+};
