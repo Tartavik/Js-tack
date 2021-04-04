@@ -7,7 +7,7 @@ let listOfNames = [];
 
 
 
-let promise = fetch('https://tartavik.github.io/Anton/list.json', )
+let promise = fetch('https://tartavik.github.io/Js-task/list.json', )
   .then(res =>res.json())
   .then(data=>{ 
   	if(data&&data.length){
